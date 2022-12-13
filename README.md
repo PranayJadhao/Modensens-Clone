@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1c4KmAwfK2ZSuC5LCCrAKIf2zhJO9zwra/view
 ![modensenseProject](https://user-images.githubusercontent.com/107978823/207076321-85d24bad-0669-49b4-929f-f65005e7b915.png)
 
 
-- Sihnup Page
+- Signup Page
 ![mpdesens signup](https://user-images.githubusercontent.com/107978823/207076377-cd0c7972-cbd0-44fb-8966-613a586312ab.png)
 
 
